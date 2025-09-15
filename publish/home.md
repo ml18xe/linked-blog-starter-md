@@ -5,8 +5,6 @@ excerpt: Home Page
 This is my digital portfolio for the EDUC 5863 production assignments.
 ## Production 1: Power Up
 
-> **game** */gām/ n.* (pl. **-games**) an artifact that involves an interaction telling a story.
-
 **Definition 1:**
 > **game** */gām/ n.* (pl. **-games**) an interactive medium in which players make choices to pursuit some kind of social validation.
 
