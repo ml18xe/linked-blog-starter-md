@@ -1,27 +1,23 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
+title: Maximus Lam EDUC 5863 Portfolio
+excerpt: Home Page
 ---
-Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
-- Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
-- URLs are based on folder structure
-- Backlinks can be added outside of the markdown files (using the [PreviewLink](https://github.com/matthewwong525/linked-blog-starter/blob/main/components/misc/preview-link.tsx) component)
-- Full-text search
-- TEST
+This is my digital portfolio for the EDUC 5863 production assignments.
+## Production 1: Power Up
 
-## [[how-linked-blog-starter-works|How it works]]
-![[how-linked-blog-starter-works]]
+> **game** */gām/ n.* (pl. **-games**) an artifact that involves an interaction telling a story.
 
-## Getting Started
-### [[home|Demo]]
-Additionally, you can deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
+**Definition 1:**
+> **game** */gām/ n.* (pl. **-games**) an interactive medium in which players make choices to pursuit some kind of social validation.
 
-### [[publish-your-obsidian-notes-with-linked-blog-starter|Publish your Obsidian Vault]]
-Click the link above to find out how to publish your own notes!
+This definition of a game classifies a game as an interactive medium. I find this quite compelling, as when you think of a game, you would normally expect there to be some means to interact with the game in order to "play" the game. But do all games need to be interacted with in order to play them? If I, for instance, said to a friend, "Hey, let's play a little game. If it rains tomorrow, you win. If it doesn't rain tomorrow, I win", would that really count as a game? Other than me creating and explaining the rules involved, there really is no interaction on either of our parts, as everything is dependant on the weather and there is nothing we can do about it. However, for some reason, a situation like this still provides a mild sense of excitement and competitive anticipation that a game normally would. Perhaps, praying and hoping for rain tomorrow, or simply the waiting itself could count as an interaction, though I am not really sure about that.
 
-### [[deploy-a-custom-linked-blog-starter|Customize this template]]
-Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/).
+Noting the, "in which players make choices to pursuit some kind of social validation", part of the definition however, I would have to disagree. I agree that there are many games in which social validation plays a huge role, such as competitive multiplayer games where players can be socially validated by defeating opponents, cooperative multiplayer games where players can be socially validated by fulfilling contributions for their teammates, or even single player games where players can be socially validated by sharing that they completed the game to their friends. However, it is not as though a pursuit for social validation must be present in order to play a game. For instance, there may exist games that are considered socially unacceptable to play, yet I could still play them regardless of whether I am socially validated or not. Would that no longer be considered a game? Perhaps I could play a game simply to pass the time or just for my own personal curiosity. Would that no longer be considered a game? If I play a game by myself on a secluded island with no access to other people or the outside world, would that no longer be considered a game?
 
-![[fn-website-demo.gif]]
+---
+****Definition 2:****
+> **game** */gām/ n.* (pl. **-games**) a challenge characterized by a playful relationship.
 
+Now, this is a definition I find interesting. Here, a game is classified as a challenge instead of an interactive medium. This means interaction is no longer a requirement to play, but rather, some form of challenge. As the weather game example I provided earlier may or may not be considered a game under the previous definition, with this definition, it fully checks out, as it does not matter whether or not we are interacting. Both me and my friend are playing a game where we are placed under a kind of challenge or duel where the victor depends on whether it rains tomorrow or not. And, of course this is characterized by a playful relationship as this is simply a challenge between me and my friend.
 
+To further comment on the, "characterized by a playful relationship", part of the definition, I agree with this.
