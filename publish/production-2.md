@@ -24,7 +24,7 @@ In regards to my personal experience with gamification, there was a time when I 
 ###### Figure 1: Sheet Music Sight-Reading Game for iPhone 
 ![[IMG_8947(1).png]]
 
-It was not a fun game. It felt almost like studying flash cards if anything. At first, I found enjoyment in the fact that my score was gradually improving, however, I eventually reached a point where I found myself obsessing over making sure I get a new high score every day. This is where it started to become frustrating. At this point, my scores were so high that I was spending hours playing the game over and over again trying to achieve a high score. It came to the point where I would even reset as soon as I made a mistake, without even completing the full one minute. Getting a high score became so time-consuming and focus-intensive that it eventually began to feel like a chore and I lost all motivation to keep playing. Now, I can no longer sight-read at all.
+It was not a fun game. It felt almost like studying flash cards if anything. At first, I found enjoyment in the fact that my score was gradually improving, however, I eventually reached a point where I found myself obsessing over making sure I get a new high score every day. This is where it started to become frustrating. At this point, my scores were so high that I was spending hours playing the game over and over again trying to achieve a high score. It came to the point where I would even reset as soon as I made a mistake, without even completing the full one minute. Getting a high score became so time-consuming and focus-intensive that it eventually began to feel like a chore and I lost all motivation to keep playing. Now, I can no longer read sheet music at all.
 
 
 
