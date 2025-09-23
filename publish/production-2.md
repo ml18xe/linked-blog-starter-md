@@ -22,7 +22,7 @@ Under this description, engaging with gamified material definitely would not fit
 
 In regards to my personal experience with gamification, there was a time where I was really interested in learning how to read sheet-music. Although I had already learned the basics of it, I was still a very slow reader, so I downloaded a game on my phone that was supposed to help me with that ([[#Figure 1 Sheet Music Sight-Reading Game for iPhone|see Figure 1]]). This game essentially gamified reading sheet-music by placing a game-layer where you were given a score based on speed and accuracy. The goal was to read as many of the displayed notes as you could within one minute and to try to aim for a new high score everyday. You could also share and try to beat your friends' scores through Game Center (though I had no one to share it with). 
 ###### Figure 1: Sheet Music Sight-Reading Game for iPhone 
-![[IMG_8947.png]]
+![[IMG_8947(1).png]]
 
 It was not a fun game. It felt almost like studying flash cards if anything. At first, I found enjoyment in the fact that my score was gradually improving, however, I eventually reached a point where I found myself obsessing over making sure I get a new high score every day. This is where it started to become frustrating. At this point, my scores were so high that I was spending hours playing the game over and over again trying to achieve a high score. It came to the point where I would even reset as soon as I made a mistake, without even completing the full one minute. Getting a high score became so time-consuming and focus-intensive that it eventually began to feel like a chore and I lost all motivation to keep playing. I can no longer sight-read.
 
