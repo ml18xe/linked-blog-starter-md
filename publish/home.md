@@ -19,3 +19,5 @@ Noting the, "in which players make choices to pursuit some kind of social valida
 Now, this is a definition I find interesting. Here, a game is classified as a challenge instead of an interactive medium. This means interaction is no longer a requirement to play, but rather, some form of challenge. As the weather game example I provided earlier may or may not be considered a game under the previous definition, with this definition, it fully checks out, as it does not matter whether or not we are interacting. Both me and my friend are playing a game where we are placed under a kind of challenge or duel where the victor depends on whether it rains tomorrow or not. And, of course this is characterized by a playful relationship as this is simply a challenge between me and my friend.
 
 To further comment on the, "characterized by a playful relationship", part of the definition, I agree with this.
+
+## [[production-2|Production 2: Foundations]]
