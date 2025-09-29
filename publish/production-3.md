@@ -23,7 +23,7 @@ My scepticism on that last point aside, for the purposes of this production, the
 
 To begin the discussion, I would like to bring up Cailliois's four fundamental categories of games. Throughout my gameplay experience in Minecraft, I have felt that it had corresponded with all four game categories: agôn, alea, mimicry, and ilinx. As Minecraft has the unique trait of offering the experience of "a game of many games", this is not surprising. I will elaborate further.
 
-Firstly, agôn, the category that reflects competition, I felt corresponded with the many of the PVP (player-vs-player) mini-games in Minecraft that I had played against my friends. In these PVP circumstances, we are given challenges where we are all pinned against each other rather than co-operating. My favourite of these mini-games was one called Sprint Racer, which is essentially a Mario-Kart-like racing game that takes place on foot in a race-track built in Minecraft.
+Firstly, agôn, the category that reflects competition, I felt corresponded with many of the PVP (player-vs-player) mini-games in Minecraft that I had played against my friends. In these PVP circumstances, we are given challenges where we are all pinned against each other rather than co-operating. My favourite of these mini-games was one called Sprint Racer, which is essentially a Mario-Kart-like racing game that takes place on foot in a race-track built in Minecraft.
 
 ![[sr3.png]]
 
