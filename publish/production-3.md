@@ -25,13 +25,21 @@ To begin the discussion, I would like to bring up Cailliois's four fundamental c
 
 Firstly, agôn, the category that reflects competition, I felt corresponded with the many of the PVP (player-vs-player) mini-games in Minecraft that I had played against my friends. In these PVP circumstances, we are given challenges where we are all pinned against each other rather than co-operating. My favourite of these mini-games was one called Sprint Racer, which is essentially a Mario-Kart-like racing game that takes place on foot in a race-track built in Minecraft.
 
+![[sr3.png]]
+
 Something particularly of note about the Sprint Racer mini-game was that, although I noticed some elements of agôn, alea, mimicry, and ilinx sprinkled throughout Minecraft overall, just Sprint Racer alone seemed to encompass all four categories in itself: 
 
 For alea, the category that reflects chance, Sprint Racer provides Mario-Kart-like item boxes that you can pick up through the race, offering randomized abilities that can range from extremely useful to totally useless. 
 
+![[2025-03-17_13-40-08-png.png]]
+
 For mimicry, the category that reflects simulation, playing Sprint Racer, we are all pretending to be avatars in Minecraft who are pretending to be Mario-Kart race carts on a race track, despite actually being on foot for some reason (it is totally feasible for race carts to be added to the game. The choice to be on foot was most definitely not due to programming restriction, but rather, for comedic/amusement purpose).
 
+![[2025-03-17_13-35-16-png.png]]
+
 And lastly, for ilinx, the category that reflects vertigo, in Sprint Racer, the fast-paced, first-person nature of the game, in combination with all the crazy jumps, drops, and roller-coaster-like loopty-loops, evoked an immersive feeling of high-speed, intense motion. Furthermore, one of my friends decided to play the entire time with a VR headset on (despite us warning him that it would make the game harder) and ended up left with a headache and a bad case of motion-sickness.
+
+![[sr8.png]]
 
 As for where Sprint Racer falls in the spectrum of paidia and ludus, I am unsure. While paidia refers to the free, spontaneous manifestations that occur in some forms of play, ludus refers to the difficult, challenging, and obstacle-based conflict that occur in other forms of play. However, I find myself feeling as though Sprint Racer reflects both of them equally, which is absurd because, in the text, paidia and ludus are represented as total polar opposites.
 
