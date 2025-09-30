@@ -37,10 +37,10 @@ For mimicry, the category that reflects simulation, playing Sprint Racer, we are
 
 ![[2025-03-17_13-35-16-png.png]]
 
-And lastly, for ilinx, the category that reflects vertigo, in Sprint Racer, the fast-paced, first-person nature of the game, in combination with all the crazy jumps, drops, and roller-coaster-like loopty-loops, evoked an immersive feeling of high-speed, intense motion. Furthermore, one of my friends decided to play the entire time with a VR headset on (despite us warning him that it would make the game harder) and ended up left with a headache and a bad case of motion-sickness.
+And lastly, for ilinx, the category that reflects vertigo, in Sprint Racer, the fast-paced, first-person nature of the game, in combination with all the crazy jumps, drops, and roller-coaster-like loopty-loops, evoked an immersive feeling of high-speed intense motion. Furthermore, one of my friends decided to play the entire time with a VR headset on (despite us warning him that it would make the game harder) and ended up left with a headache and a bad case of motion-sickness.
 
 ![[sr8.png]]
 
-As for where Sprint Racer falls in the spectrum of paidia and ludus, I am unsure. While paidia refers to the free, spontaneous manifestations that occur in some forms of play, ludus refers to the difficult, challenging, and obstacle-based conflict that occur in other forms of play. However, I find myself feeling as though Sprint Racer reflects both of them equally, which is absurd because, in the text, paidia and ludus are represented as total polar opposites.
+As for where Sprint Racer falls within the spectrum of paidia and ludus, I am unsure. While paidia refers to the free, spontaneous manifestations that occur in some forms of play, ludus refers to the difficult, challenging, and obstacle-based conflict that occur in other forms of play. However, I find myself feeling as though Sprint Racer reflects both of them equally, which is absurd because, in the text, paidia and ludus are represented as total polar opposites.
 
 As for if, how, and what was learned through my experience in Sprint Racer, I am also unsure. Perhaps improving my hand-eye coordination and dexterity, reaction time, and predictive mapping capabilities to anticipate turns and jumps in advance counts as learning, although, I would probably describe that more as practicing than learning. Although, I did learn that VR headsets can cause motion sickness.
