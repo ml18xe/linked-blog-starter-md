@@ -4,7 +4,7 @@ date: 2025-10-19
 ---
 ## Production 4: Doing Things
 
-#### Option 2: Create a New Chapter
+### Option 2: Create a New Chapter
 
 **Chapter 21 > Trust**
 
