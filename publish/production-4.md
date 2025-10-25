@@ -10,7 +10,7 @@ date: 2025-10-19
 
 While some of the earliest videogames of the multiplayer variant undertake a more competitive tone, with examples such as _Tennis for Two_ (1958) and _Pong_ (1972), the emergence of the ability for players to collaborate with one another has opened the doors to a vast number of possibilities in games. Ranging from early multiplayer games, such as _Pong Doubles_ (1973) and Atari's _Fire Truck_ (1978), all the to way to the team shooters (i.e. Call of Duty) and MMO games (i.e. World of Warcraft) seen today, the mode of co-operation in videogames completely changes the entire experience and underlying properties of the overall gameplay.
 
-[![[maxresdefault.jpg]]](<https://www.youtube.com/watch?v=ZdDAg9nC_XA>)
+[![[maxresdefault.jpg]]](<https://www.youtube.com/watch?v=yqtp1bxIA8s>)
 
 One particularly difficult obstacle faced by those who play co-operation games that happens to be lacking in traditional player-vs-player competitive games is Trust. The need to be able to believe in other players, rely on their strength, count on them to be committed, and trust that they are on your side. These are challenges that you will simply not have to deal with in a strictly competitive setting, as they are not crucial to the game objectives in the same way. In fact, if anything, competitive games can be found to be much easier for the player when other players are _not_ strong and _not_ committed, since the other players are _not_ on their side.
 
