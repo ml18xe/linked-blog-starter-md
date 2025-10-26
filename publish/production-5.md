@@ -6,7 +6,7 @@ date: 2025-10-26
 
 **Tools and Technology:**
 
-I would like to create a game inside Minecraft. I plan to use a mix of modding APIs (Forge or Fabric) to create my own mods for the game (programming in Java), as well as a variety of open-source resources (other peoples’ mods) and assets (landscapes, buildings, textures) found on the CurseForge creative commons. I may incorporate Minecraft’s built-in programming language as well (command-blocks, data-packs), and most definitely will be constructing the game environment using in-game building tools (creative mode). In a sense, I will be using Minecraft as my ‘game engine’ for this project.
+I would like to create a game within the game Minecraft. I plan to use a mix of modding APIs (Forge or Fabric) to create my own mods for the game (programming in Java), as well as a variety of open-source resources (other peoples’ mods) and assets (landscapes, buildings, textures) found on the CurseForge creative commons. I may incorporate Minecraft’s built-in programming language as well (command-blocks, data-packs), and most definitely will be constructing the game environment using in-game building tools (creative mode). In a sense, I will be using Minecraft as my ‘game engine’ for this project.
 
 **Rationale:**
 
