@@ -24,7 +24,7 @@ Through my experience playing Minecraft for several years, I have noticed two re
 
 ![[minecraft-cake-recipe.png]]
 
-These two areas of activity, 'Learning' and 'Practice', would most closely match the acts of ‘Work’ (somewhat) and ‘Drill’ in Bogost’s literature, demonstrating that the prevalence of these activities have been well observed and documented in games for quite some time. What I would like to do is attempt to create a miniature adventure game in Minecraft that utilizes these activities, but incorporates academic topics and skills somehow that can be used in the real world (that can also be easily demonstrated to an audience, e.g. early algebra), without eliminating all the excitement that comes with Minecraft. Of course, it will be heavily downscaled for this project (maybe two or three levels in a bordered-off section of the game world), but I plan to expand it much further in my MRP.
+These two areas of activity, 'Learning' and 'Practice', would most closely match the acts of ‘Work’ (somewhat) and ‘Drill’ in Bogost’s literature, demonstrating that the prevalence of these activities have been well observed and documented in games for quite some time. What I would like to do is attempt to create a miniature adventure game in Minecraft that utilizes these activities, but incorporates academic topics and skills somehow that can be used in the real world (that can also be easily demonstrated and understood by an audience, e.g. early algebra), without eliminating all the excitement that comes with Minecraft. Of course, it will be heavily downscaled for this project (maybe two or three levels in a bordered-off section of the game world), but I plan to expand it much further in my MRP.
 
 ![[asd.png]]
 ## Production 5: Game Sketch
