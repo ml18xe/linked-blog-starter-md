@@ -20,7 +20,7 @@ Through my experience playing Minecraft for several years, I have noticed two re
 
 ![[Knowlogy-Book-Mod-Screenshot-07.png]]
 
-**Practice:** In other scenarios in Minecraft, I have observed players spending hours repeating rote tasks that, of course, require prerequisite knowledge of the mechanics beforehand (requires 'Learning' first). However, through this, speed and accuracy of the task incrementally improve, memory and faster recall of the steps are acquired, the material becomes further understood, and players eventually obtain a mastery of the skill, enabling them to execute unconsciously when needed (for example, crafting the same thing so often that the recipe becomes memorized). Practicing such tasks over and over again would normally be considered boring or overly-repetitive in other contexts, but for some reason in Minecraft it is exciting.
+**Practice:** In other scenarios in Minecraft, I have observed players spending hours repeating rote tasks that, of course, require prerequisite knowledge of the mechanics beforehand (requires 'Learning' first). However, through this, speed and accuracy of the task incrementally improve, memory and faster recall of the steps are acquired, the material becomes further understood, and players eventually obtain a mastery of the skill, enabling them to execute it unconsciously when needed (for example, crafting the same thing so often that the recipe becomes memorized). Practicing such tasks over and over again would normally be considered boring or overly-repetitive in other contexts, but for some reason in Minecraft it is exciting.
 
 ![[minecraft-cake-recipe.png]]
 

@@ -3,7 +3,7 @@ title: Maximus Lam EDUC 5863 Portfolio
 excerpt: Home Page
 ---
 This is my digital portfolio for the EDUC 5863 production assignments.
-## [[home|Production 1: Power Up]]
+## Production 1: Power Up
 
 **Definition 1:**
 > **game** */gām/ n.* (pl. **-games**) an interactive medium in which players make choices to pursuit some kind of social validation.
