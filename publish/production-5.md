@@ -26,7 +26,7 @@ In other scenarios in Minecraft, I have observed players spending hours repeatin
 
 These two areas of activity would most closely match the acts of ‘Work’ (somewhat) and ‘Drill’ in Bogost’s terms, as the prevalence of these activities have been well observed and documented in games. What I would like to do is attempt to create a miniature adventure game in Minecraft that utilizes these activities, but instead incorporating academic topics and skills somehow that can be used in the real world (basic demonstrative material, e.g. early algebra), without eliminating all the excitement that Minecraft comes with. Of course, It will be heavily scaled-down for this project (maybe two or three levels in a bordered-off section of the game world), but I plan to expand it much further in my MRP.
 
-![[s9fa11an80t61.png]]
+![[asd.png]]
 ## Production 5: Game Sketch
 
 asd
