@@ -29,11 +29,11 @@ These two areas of activity, 'Learning' and 'Practice', would most closely match
 ![[asd.png]]
 ## Production 5: Game Sketch
 
-In regards to Gee's six features of games with high learning potential, I would like to discuss each of them and how they speak to the game I propose.
+In regards to Gee's six *features of games with high learning potential*, I would like to discuss each of them and how they speak to the game I propose.
 
 1. Video games can create an embodied empathy for a complex system.
 
-My game will take place within a completely fictional, fantasy-world narrative. Castles, dragons, demons, you name it. Like most games with a narrative, players will often, all on their own, develop an empathy for the game world and take on the perspective of the character within. I am not really introducing anything special in this regard. However, by introducing a system interconnected by academic topics, I feel that players will be more motivated to understand them because they constitute the foundation of how the game-world operates.
+My game will take place within a completely fictional, fantasy-world narrative. Castles, dragons, demons, you name it. Like most games with a narrative, players will often, all on their own, develop an empathy for the game world and take on the perspective of the protagonist within, regardless of the developers' intent. Thus, my game will not really be introducing anything special in this regard. However, since my game will be interconnected by a system of academic topics, the empathy they feel might further their motivation to learn and better understand these topics because they constitute the foundation of how the game-world operates.
 
 2. They are simulations of embodied experience and preparations for action.
 
@@ -41,7 +41,7 @@ Something that has always bothered me about the real world is the lack of opport
 
 3. They involve distributed intelligence via the creation of smart tools.
 
-Since I am introducing a variety of activities in the game involving academic concepts, it might take forever for the player to sequence through them all if every step involved had to be done manually by the player (e.g. having to learn how to operate a canon in order to shoot it). Rather, I feel it would help reduce the cognitive burden for the player if the character could act as a specialist that understands how to act on behalf of the player (e.g. character already knows how to shoot the cannon but just needs the player to calculate and input the trajectory).
+Since I am introducing a variety of activities in the game involving academic concepts, it might take forever for the player to sequence through them all if every step involved had to be done manually by the player (e.g. having to learn how to operate a canon in order to shoot it). Rather, I feel it would help reduce the cognitive burden for the player if the character could act as a specialist that understands how to act on behalf of the player (e.g. character already knows how to shoot the cannon, but just needs the player to calculate and input the trajectory).
 
 4. They create opportunities for cross-functional affiliation.
 5. They allow meanings to be situated.
