@@ -47,4 +47,4 @@ Since I am introducing a variety of activities in the game involving academic co
 5. They allow meanings to be situated.
 6. They can be open-ended in ways that encourage a melding of personal and social goals.
 
-It seems I am already way over the word count. I would have liked to go through all the rest of Gee's *features of games with high learning potential* as well his *four features of a good game*, however this will have to suffice. Though I doubt addressing every single one of Gee's principles was the point of the assignment, I will say that I agree with all of them and believe they can all be implemented seamlessly into my project.  
+It seems I am already way over the word count. I would have liked to go through all the rest of Gee's *features of games with high learning potential* as well his *four features of a good game*, however, this will have to suffice. Though I doubt addressing every single one of Gee's principles was the point of the assignment, I will say that I agree with all of them and believe they can all be implemented seamlessly into my project.  
