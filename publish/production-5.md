@@ -37,7 +37,7 @@ My game will take place within a completely fictional, fantasy-world narrative. 
 
 2. They are simulations of embodied experience and preparations for action.
 
-Something that has always bothered me about the real world is the lack of opportunity to apply learnt academic knowledge in daily life. Sure, being able to calculate a parabola may be handy for a sniper or a forensic analyst, but I am neither of those things and becoming one is way far off in a distant future. What video games provide instead is a fictional world where the material you learn along the way actually does have applications all around. 
+Something that has always bothered me about the real world is the lack of opportunity to apply learnt academic knowledge in daily life. Sure, being able to calculate the parabola of a bullet may be handy for a sniper or a forensic analyst, but I am neither of those things and becoming one is way far off in a distant future. What video games provide instead is a fictional world where the material you learn along the way actually does have applications all around. 
 
 ![[maxres.jpg]]
 
