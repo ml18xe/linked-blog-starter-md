@@ -37,11 +37,17 @@ My game will take place within a completely fictional, fantasy-world narrative. 
 
 2. They are simulations of embodied experience and preparations for action.
 
-Something that has always bothered me about the real world is the lack of opportunity to apply learnt academic knowledge in daily life. Sure, being able to calculate a parabola may be handy for a sniper or a forensic analyst, but I am neither of those things and becoming one is way far off in a distant future. What video games provide instead is a fictional world where the material you learn along the way actually does have applications all around. In my game, I believe I can achieve the same thing with academic material, so long as it takes place in a fantasy world where applications are present. And I do not need to limit myself to plot orchestration either (e.g. simply making the protagonist so happen to be a sniper so that he ends up under circumstances where he needs to calculate a parabola). Rather, since this is a fantasy world, I have the freedom to completely fabricate the properties of the world to make academic material actually more important in daily life (e.g. calculating the parabola of a rainbow always guides you to a distant pot of gold). 
+Something that has always bothered me about the real world is the lack of opportunity to apply learnt academic knowledge in daily life. Sure, being able to calculate a parabola may be handy for a sniper or a forensic analyst, but I am neither of those things and becoming one is way far off in a distant future. What video games provide instead is a fictional world where the material you learn along the way actually does have applications all around. 
+
+![[maxres.jpg]]
+
+In my game, I believe I can achieve the same thing with academic material, so long as it takes place in a fantasy world where applications are present. And I do not need to limit myself to plot orchestration either (e.g. simply making the protagonist so happen to be a sniper so that he ends up under circumstances where he needs to calculate a parabola). Rather, since this is a fantasy world, I have the freedom to completely fabricate the properties of the world to make academic material actually more important in daily life (e.g. calculating the parabola of a rainbow always guides you to a distant pot of gold). This could be seen by some as making up 'fake' reasons to be interested in the topic when I should be introducing players to interesting real-life applications instead. Though there are many benefits of sticking to the ladder approach (such as getting players thinking about their future career choices), I feel that it would limit my creative options and be a waste of the world-building capabilities that videogames possess.
 
 3. They involve distributed intelligence via the creation of smart tools.
 
 Since I am introducing a variety of activities in the game involving academic concepts, it might take forever for the player to sequence through them all if every step involved had to be done manually by the player (e.g. having to learn how to operate a canon in order to shoot it). Rather, I feel it would help reduce the cognitive burden for the player if the character could act as a specialist that understands how to act on behalf of the player (e.g. character already knows how to shoot the cannon, but just needs the player to calculate and input the trajectory).
+
+![[Screenshot_04-scaled.jpg]]
 
 4. They create opportunities for cross-functional affiliation.
 5. They allow meanings to be situated.
