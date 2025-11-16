@@ -1,8 +1,8 @@
 ---
-title: Maximus Lam EDUC 5863 Portfolio
+title: EDUC 5863 Portfolio
 excerpt: Home Page
 ---
-This is my digital portfolio for the EDUC 5863 production assignments.
+Maximus Lam's digital portfolio for the EDUC 5863 production assignments.
 ## Production 1: Power Up
 
 **Definition 1:**
