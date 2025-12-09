@@ -14,7 +14,7 @@ Though I, more or less, agreed with most of Zimmerman's statements (particularly
 
 Sure, games may be everywhere, and sure, games may have been around forever. But to go as far as to state that playing games is part of what it means to be human? That is quite a bold claim. Are we, then, not human if we do not play games? What is it about games that defines who we are? Who are we then without games?
 
-Through the reading of Caillois, there were some passages from the work, _Homo Ludens_ (1938), by J. Huizinga, that provides some insight. 
+Through the reading of Caillois, there were some passages from the work, _Homo Ludens_ (1938), by J. Huizinga, that provide some insight. 
 
 ![[homo.jpg]]
 
