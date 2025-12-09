@@ -16,7 +16,7 @@ Sure, games may be everywhere, and sure, games may have been around forever. But
 
 Through the reading of Caillois, there were some passages from the work, _Homo Ludens_ (1938), by J. Huizinga, that provides some insight. 
 
-![[51t28AsMvcL._AC_UF1000,1000_QL80_.jpg]]
+![[homo.jpg]]
 
 Though Caillois has his doubts about some of Huizinga's claims, the work describes the contributions of play, in that, play has had an important "role in the very development of civilization" (Caillois, 1959, 123), that can be found "present in or animating the essential aspects of all culture." (ibid.) 
 
