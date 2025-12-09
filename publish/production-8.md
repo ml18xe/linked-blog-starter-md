@@ -6,7 +6,7 @@ date: 2025-12-08
 
 ### Option 3: Go back to Zimmerman
 
-Though I, more or less, agreed with most of Zimmerman's statements (particularly those to do with the prevail of computer systems and networks in modern communications), there one claim right at the beginning of the manifesto that I was skeptical about. However, after all the literature I have read throughout the course, coming back to the Zimmerman reading, I have found that perhaps my doubts have been settled. Either that, or the course has made me even more confused.
+Though I, more or less, agreed with most of Zimmerman's statements (particularly those to do with the prevail of computer systems and networks in modern communications), there is one claim right at the beginning of the manifesto that I was skeptical about. However, after all the literature I have read throughout the course, coming back to the Zimmerman reading, I have found that perhaps my doubts have been settled. Either that, or the course has made me even more confused.
 
 **Games are ancient.**
 
